@@ -1,0 +1,24 @@
+{
+  "name": "InstaTime",
+  "version": "1.0.0",
+  "description": "## Background and Overview InstaTime is a data visualization tool allowing users to see a timeline of their Instagram post history as they compare plotted by time of day or day of week. Users can use this information to identify whether there is a correlation between when they post photos and how much attention their posts receive.",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexinachong/InstaTime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexinachong/InstaTime/issues"
+  },
+  "homepage": "https://github.com/alexinachong/InstaTime#readme"
+}

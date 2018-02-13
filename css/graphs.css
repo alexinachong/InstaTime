@@ -1,0 +1,22 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  font-weight: 500;
+}
+
+.nav a {
+  padding-left: 15px;
+}
+
+canvas{
+  width:400px !important;
+  height:400px !important;
+}
